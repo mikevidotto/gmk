@@ -12,7 +12,7 @@ Running `gmk` will:
 
 - Create a `main.go` file (if one doesn't already exist).
 - Populate it with a basic Go template.
-- Open the file in your default editor (e.g., Neovim).
+- Open the file in your favourite editor (e.g., Neovim).
 
 ---
 
